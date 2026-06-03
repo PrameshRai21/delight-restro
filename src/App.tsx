@@ -1,7 +1,7 @@
+import Navbar from "./components/Headers";
+
 function App() {
-  return (
-    <div className="text-3xl font-bold">Delight Restro and Sekuwa Hub</div>
-  );
+  return <Navbar />;
 }
 
 export default App;
